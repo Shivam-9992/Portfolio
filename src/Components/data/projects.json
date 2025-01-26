@@ -1,0 +1,23 @@
+[
+  {
+    "key": 1,
+    "title": "Portfolio Website",
+    "imageSrc": "./assets/project/portfolio.jpg",
+    "description": "This is a project made with complete React js.",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "To-Do web-app",
+    "imageSrc": "./assets/project/to-do.jpg",
+    "description": "This is a project made with HTML and JavaScript",
+    "source": "https://github.com/Shivam-9992/To-Do-Application"
+  },
+  {
+    "key": 3,
+    "title": "Chess Game",
+    "imageSrc": "./assets/project/chess.jpg",
+    "description": "Working on this project with HTML and JavaScript",
+    "source": "https://github.com/Shivam-9992/Chess-Game"
+  }
+]
