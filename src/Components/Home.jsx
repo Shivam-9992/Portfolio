@@ -42,7 +42,7 @@ const Home = () => {
         </div>
         <div className="right">
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
-            <img src="/assets/hero/hero.png" alt="hero" />
+            <img src="/assets/hero/hero.jpg" alt="hero" />
           </div>
         </div>
       </div>
